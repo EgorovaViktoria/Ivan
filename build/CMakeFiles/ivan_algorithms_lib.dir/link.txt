@@ -1,0 +1,2 @@
+/usr/bin/ar qc libivan_algorithms_lib.a CMakeFiles/ivan_algorithms_lib.dir/src/algorithms.cpp.o
+/usr/bin/ranlib libivan_algorithms_lib.a
