@@ -1,0 +1,4 @@
+/tmp/workspace/EgorovaViktoria/Ivan/build/CMakeFiles/ivan_algorithms_lib.dir
+/tmp/workspace/EgorovaViktoria/Ivan/build/CMakeFiles/ivan_algorithms.dir
+/tmp/workspace/EgorovaViktoria/Ivan/build/CMakeFiles/edit_cache.dir
+/tmp/workspace/EgorovaViktoria/Ivan/build/CMakeFiles/rebuild_cache.dir
